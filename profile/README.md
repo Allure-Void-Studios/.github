@@ -29,7 +29,7 @@ Please adhere to this project's `code of conduct`.
 
 ## Acknowledgements
 
- - [Nothing Yet](https://studio.allurevoid.net/nothing-here)
+ - [Nothing Here Yet](https://studio.allurevoid.net/nothing-here)
 
 
 ## FAQ - Ask us some!
