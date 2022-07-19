@@ -2,7 +2,7 @@
 ![Logo](https://github.com/Allure-Void-Studios/.github/blob/main/AVS-Full.png?raw=true)
 
 
-## Authors
+## Staff
 
 - [@satincake](https://www.github.com/satincake)
 - [@jacobwasbeast](https://www.github.com/jacobwasbeast)
